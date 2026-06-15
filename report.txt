@@ -1,0 +1,124 @@
+Info: Processing symbol 'D1:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Processing symbol 'D2:LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U1:footprints:XIAO-RP2040-DIP'.
+Info: Total warnings: 0, errors: 0.
+Updated D1 symbol association from  to /9e525601-ad18-4571-9409-e184ba971b95.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'hackpad.kicad_sch'.
+Updated D1 footprint filters to 'LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*'.
+Add net Net-(D1-VDD).
+Connected D1 pin 4 to Net-(D1-VDD).
+Add net GND.
+Connected D1 pin 2 to GND.
+Add net Net-(D1-DIN).
+Connected D1 pin 3 to Net-(D1-DIN).
+Add net unconnected-(D1-DOUT-Pad1).
+Connected D1 pin 1 to unconnected-(D1-DOUT-Pad1).
+Added D2 (footprint 'LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm to SK6812.
+Updated D2 symbol association from  to /4991d668-c057-4718-a168-31a3f692b4ba.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'hackpad.kicad_sch'.
+Updated D2 footprint filters to 'LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*'.
+Connected D2 pin 2 to GND.
+Connected D2 pin 4 to Net-(D1-VDD).
+Add net unconnected-(D2-VDD-Pad3).
+Connected D2 pin 3 to unconnected-(D2-VDD-Pad3).
+Add net unconnected-(D2-VSS-Pad1).
+Connected D2 pin 1 to unconnected-(D2-VSS-Pad1).
+Added SW1 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW1 symbol association from  to /721e471c-0479-4527-8eaf-3cf4072f4b21.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'hackpad.kicad_sch'.
+Connected SW1 pin 1 to GND.
+Add net Net-(U1-GPIO1/RX).
+Connected SW1 pin 2 to Net-(U1-GPIO1/RX).
+Added SW2 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW2 symbol association from  to /93f7f699-8625-4446-b394-771540ad110a.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'hackpad.kicad_sch'.
+Add net Net-(U1-GPIO2/SCK).
+Connected SW2 pin 2 to Net-(U1-GPIO2/SCK).
+Connected SW2 pin 1 to GND.
+Added SW3 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW3.
+Changed SW3 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW3 symbol association from  to /a6086e5a-58b0-4765-a0d4-3c863ff96256.
+Updated SW3 fields.
+Updated SW3 sheetname to '/'.
+Updated SW3 sheetfile to 'hackpad.kicad_sch'.
+Add net Net-(U1-GPIO4/MISO).
+Connected SW3 pin 2 to Net-(U1-GPIO4/MISO).
+Connected SW3 pin 1 to GND.
+Added D1 (footprint 'LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm').
+Added SW4 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW4.
+Changed SW4 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW4 symbol association from  to /eb1ceff4-2459-4778-b3b9-0bf0a12a35c7.
+Updated SW4 fields.
+Updated SW4 sheetname to '/'.
+Updated SW4 sheetfile to 'hackpad.kicad_sch'.
+Add net Net-(U1-GPIO3/MOSI).
+Connected SW4 pin 2 to Net-(U1-GPIO3/MOSI).
+Connected SW4 pin 1 to GND.
+Changed REF** reference designator to D1.
+Added U1 (footprint 'footprints:XIAO-RP2040-DIP').
+Changed REF** reference designator to U1.
+Updated U1 symbol association from  to /af1fc039-dbaf-44c2-a2a1-89e99d7cb863.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'hackpad.kicad_sch'.
+Connected U1 pin 9 to Net-(U1-GPIO2/SCK).
+Connected U1 pin 5 to Net-(D1-DIN).
+Add net +5V.
+Connected U1 pin 14 to +5V.
+Add net unconnected-(U1-GPIO28/ADC2/A2-Pad3).
+Connected U1 pin 3 to unconnected-(U1-GPIO28/ADC2/A2-Pad3).
+Add net unconnected-(U1-GPIO29/ADC3/A3-Pad4).
+Connected U1 pin 4 to unconnected-(U1-GPIO29/ADC3/A3-Pad4).
+Changed D1 value from LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm to SK6812MINI.
+Connected U1 pin 1 to unconnected-(U1-GPIO26/ADC0/A0-Pad1).
+Connected U1 pin 11 to Net-(U1-GPIO3/MOSI).
+Connected U1 pin 13 to GND.
+Add net unconnected-(U1-GPIO27/ADC1/A1-Pad2).
+Connected U1 pin 2 to unconnected-(U1-GPIO27/ADC1/A1-Pad2).
+Add net unconnected-(U1-GPIO0/TX-Pad7).
+Connected U1 pin 7 to unconnected-(U1-GPIO0/TX-Pad7).
+Connected U1 pin 4 to unconnected-(U1-GPIO29/ADC3/A3-Pad4).
+Add net unconnected-(U1-GPIO7/SCL-Pad6).
+Connected U1 pin 6 to unconnected-(U1-GPIO7/SCL-Pad6).
+Connected U1 pin 8 to Net-(U1-GPIO1/RX).
+Connected U1 pin 1 to unconnected-(U1-GPIO26/ADC0/A0-Pad1).
+Connected U1 pin 8 to Net-(U1-GPIO1/RX).
+Connected U1 pin 2 to unconnected-(U1-GPIO27/ADC1/A1-Pad2).
+Add net unconnected-(U1-GPIO26/ADC0/A0-Pad1).
+Connected U1 pin 3 to unconnected-(U1-GPIO28/ADC2/A2-Pad3).
+Connected U1 pin 10 to Net-(U1-GPIO4/MISO).
+Connected U1 pin 14 to +5V.
+Add net unconnected-(U1-3V3-Pad12).
+Connected U1 pin 12 to unconnected-(U1-3V3-Pad12).
+Connected U1 pin 6 to unconnected-(U1-GPIO7/SCL-Pad6).
+Connected U1 pin 11 to Net-(U1-GPIO3/MOSI).
+Connected U1 pin 10 to Net-(U1-GPIO4/MISO).
+Connected U1 pin 13 to GND.
+Connected U1 pin 9 to Net-(U1-GPIO2/SCK).
+Connected U1 pin 12 to unconnected-(U1-3V3-Pad12).
+Connected U1 pin 5 to Net-(D1-DIN).
+
+
+Connected U1 pin 7 to unconnected-(U1-GPIO0/TX-Pad7).
+
+
+Info: Total warnings: 0, errors: 0.
