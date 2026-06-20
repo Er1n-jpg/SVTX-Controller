@@ -5,8 +5,7 @@ Sound voltex is a popular japanese arcade rythmn game that involves the player p
 <img width="270" height="366" alt="image" src="https://github.com/user-attachments/assets/aa31a898-c009-4cf7-b4ef-0a0100e13b74" />
 
 # Why this project? 
-I've always wanted to play a bunch of japanese arcade rythmn games since I was a kid but they're really hard to find here in canada (especially ottawa). I've only played
-sound voltex once in my life but I really want to play it more, I made this controller so I could have the full arcade experience at home (without having to haul myself to japan or new york city haha)
+Since I was a kid, i've always wanted to play japananese arcade rythmn games but it's super hard to find cabinets here in Canada without having to travel hundreds of miles or literally just fly to japan. I was first introduced to the minivoltex through a youtube video when I was bored in 2020, back then I thought it was a super cool controller and a way for me to actually experience these arcade cabinets without having to haul myself to japan. When I was doing the blueprint hackpad tutorials, I kept thinking that the stuff I was doing, with macropads and all could relate back to rythmn game controllers and I thought OH! I could probably modify this to become a minivoltex and then play sound voltex and be happy :D. 
 
 I haven't made the firmware for this project yet but come back later for a finished controller! 
 
