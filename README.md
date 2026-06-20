@@ -45,4 +45,8 @@ I'm still not sure if i'm doing them right so ill need to ask some hardware smar
 <img width="845" height="479" alt="image" src="https://github.com/user-attachments/assets/5a5da99f-49d1-4a3a-a49e-eee7b036d05d" />
 
 
+# BOM
+
+
+
 Huge mega thanks to all of my experienced hardware friends for helping me on building this (Tanishq, Sophia Duan, Owais, Jeremy) Yall are amazing hehe
