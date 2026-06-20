@@ -1,5 +1,5 @@
-This is the github for my attempt at making a mini sound voltex controller 
 
+# What is this?
 Sound voltex is a popular japanese arcade rythmn game that involves the player pressing 6 buttons and turning two knobs (think piano tiles but extra steps!)
 
 <img width="270" height="366" alt="image" src="https://github.com/user-attachments/assets/aa31a898-c009-4cf7-b4ef-0a0100e13b74" />
