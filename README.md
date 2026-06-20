@@ -35,6 +35,7 @@ Also the very first time i've ever tried to make a LED/encoder matrix and my ver
 
 
 Here's my traces!
+
 <img width="827" height="647" alt="image" src="https://github.com/user-attachments/assets/e21e0b9d-6f22-4e67-9a80-75fe6a95a70d" />
 
 I'm still not sure if i'm doing them right so ill need to ask some hardware smart friends for help lol. If anyone has reccomendations on where to put the neopixels it would be greatly appreciated
