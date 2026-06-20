@@ -27,7 +27,8 @@ My controller features:
 # PCB
 Here are my traces, models and schematic of my pcb (unupdated)
 
-<img width="1566" height="898" alt="image" src="https://github.com/user-attachments/assets/93bd6bff-757e-4ccd-b479-18a98e6d9fee" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/2be9fecd-775a-489e-b8f7-fc0c2167715c" />
+
 
 This is my second time ever making a hardware project so alot of this repo stuff is named "hackpad" since it was originally going to be a hackpad.
 Also the very first time i've ever tried to make a LED/encoder matrix and my very first time using rotary switch encoders and a first time for very very very many things (haha). 
