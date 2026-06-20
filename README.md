@@ -1,8 +1,10 @@
 
 # What is this?
-Sound voltex is a popular japanese arcade rythmn game that involves the player pressing 6 buttons and turning two knobs (think piano tiles but extra steps!). I made a mini sound voltex controller, featuring the same 6 buttons along with two rotary encoders and a custom 3D printed case
+Sound voltex is a popular japanese arcade rythmn game that involves the player pressing 6 buttons and turning two knobs (think piano tiles but extra steps!). I made a mini sound voltex controller, featuring the same 6 buttons along with two rotary encoders and a custom 3D printed case. 
 
 <img width="270" height="366" alt="image" src="https://github.com/user-attachments/assets/aa31a898-c009-4cf7-b4ef-0a0100e13b74" />
+
+it's played on arcade cabinets like this ^^
 
 # Why this project? 
 Since I was a kid, i've always wanted to play japananese arcade rythmn games but it's super hard to find cabinets here in Canada without having to travel hundreds of miles or literally just fly to japan. I was first introduced to the minivoltex through a youtube video when I was bored in 2020, back then I thought it was a super cool controller and a way for me to actually experience these arcade cabinets without having to haul myself to japan. When I was doing the blueprint hackpad tutorials, I kept thinking that the stuff I was doing, with macropads and all could relate back to rythmn game controllers and I thought OH! I could probably modify this to become a minivoltex and then play sound voltex and be happy :D. 
