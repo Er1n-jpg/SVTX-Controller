@@ -24,7 +24,8 @@ My controller features:
 - 2 EC11 rotary encoders
 - A buzzer, because why not!
 
-I'm not completely done this project yet but here's what I have so far!
+# PCB
+Here are my traces, models and schematic of my pcb (unupdated)
 
 <img width="1566" height="898" alt="image" src="https://github.com/user-attachments/assets/93bd6bff-757e-4ccd-b479-18a98e6d9fee" />
 
