@@ -35,7 +35,7 @@ Also the very first time i've ever tried to make a LED/encoder matrix and my ver
 
 
 Here's my traces!
-<img width="890" height="556" alt="image" src="https://github.com/user-attachments/assets/fa6d83ce-3826-4261-b767-fc28002fca84" />
+<img width="827" height="647" alt="image" src="https://github.com/user-attachments/assets/e21e0b9d-6f22-4e67-9a80-75fe6a95a70d" />
 
 I'm still not sure if i'm doing them right so ill need to ask some hardware smart friends for help lol. If anyone has reccomendations on where to put the neopixels it would be greatly appreciated
 
@@ -43,6 +43,5 @@ I'm still not sure if i'm doing them right so ill need to ask some hardware smar
 
 <img width="845" height="479" alt="image" src="https://github.com/user-attachments/assets/5a5da99f-49d1-4a3a-a49e-eee7b036d05d" />
 
-PCB has NOT been built yet but it is something I hope to build soon (hopefully before fallout?)
 
 Huge mega thanks to all of my experienced hardware friends for helping me on building this (Tanishq, Sophia Duan, Owais, Jeremy) Yall are amazing hehe
