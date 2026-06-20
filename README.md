@@ -47,6 +47,13 @@ I'm still not sure if i'm doing them right so ill need to ask some hardware smar
 
 # BOM
 
-
+| Item | Description | Quantity (#) |	Price per unit | Shipping |	Total Price |
+| --- | --- | --- | --- | --- | --- |
+| Pi Pico |	Pi from PiShop	|	1 |	$5.56 |	$8.78 |	$14.31 |
+Rotary Encoder	From Aliexpress 		5	$0.96	Free	$4.79
+Cherry MX switches	Also from Aliexpres yay		10	$0.43	Free	$4.31
+Diodes	From Aliexpress 		100	$0.04	Free	$4.48
+Resistors	Resistors from Aliexpress		100	$0.03	Free	$2.61
+Total Price						$30.61
 
 Huge mega thanks to all of my experienced hardware friends for helping me on building this (Tanishq, Sophia Duan, Owais, Jeremy) Yall are amazing hehe
