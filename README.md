@@ -47,7 +47,7 @@ it's also my very first time decorating a case and personalizing it, since alot 
 
 
 # Firmware
-unfortunately, you can't really pull the firmware of these gamecontrollers out of thin air from QMK like you can most macropads or keyboards since the keys are relatively far away from eachother. 
+Unfortunately, you can't really pull the firmware of these gamecontrollers out of thin air from QMK like you can most macropads or keyboards since the keys are relatively far away from eachother. 
 For this project I used the base code of speedypotato's pico game controller while taking snippets like LED's out. THE FIRMWARE IS NOT ORIGINAL I REPEAT IT IS NOT ORIGINAL
 The doccumentation for this is sick as hell! You should totally check it out AGAIN I REPEAT THE FIRMWARE IS NOT MINE 
 
