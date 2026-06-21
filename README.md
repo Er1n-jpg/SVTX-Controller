@@ -63,8 +63,8 @@ Speedy potato's doccumentation, its super cool definetly check it out! https://g
 | Diodes |	From Aliexpress | 100 |	$0.04 |	Free |	$4.48 |
 | Resistors |	Resistors from Aliexpress | 100 |	$0.03 |	Free	| $2.61 |
 | Encoder Knobs | Knobs for rotary encoders on aliexpress | 2 | $3.38 | Free | $7.72 |
-| Rubber Feet | Rubber feet to keep the keeb from sliding | 10 | 
-| Total Price | --- | --- | --- | --- | $32.04 |
+| Rubber Feet | Rubber feet to keep the keeb from sliding | 10 | $1.78 | Free | $ 3.56 |
+| Total Price | --- | --- | --- | --- | $41.79 |
 
 All other items I currently have or are included in a 50+ set for my other projects, this includes 3D prinding and filament
 
