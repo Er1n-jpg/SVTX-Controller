@@ -1,3 +1,4 @@
+[Mini Mini Voltex.pdf](https://github.com/user-attachments/files/29170644/Mini.Mini.Voltex.pdf)
 
 # What is this?
 Sound voltex is a popular japanese arcade rythmn game that involves the player pressing 6 buttons and turning two knobs (think piano tiles but extra steps!). I made a mini sound voltex controller, featuring the same 6 buttons along with two rotary encoders and a custom 3D printed case. 
@@ -15,14 +16,6 @@ Here are some examples of my inspiration
 
 <img width="605" height="305" alt="image" src="https://github.com/user-attachments/assets/8e78d820-1ce4-4e26-b88b-a656157daed1" />
 
-
-My controller features:
-- A Rasberry pi pico
-- 7 MX cherry switches
-- 7 diodes
-- 2 LED neopixes
-- 2 EC11 rotary encoders
-- A buzzer, because why not!
 
 # PCB
 Here are my traces, models and schematic of my pcb (unupdated)
