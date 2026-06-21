@@ -8,6 +8,19 @@ Sound voltex is a popular japanese arcade rythmn game that involves the player p
 
 it's played on arcade cabinets like this ^^
 
+# How does it work
+
+To plug the project in the'res a USB-C connection at the front of the case which can be easily accessed
+The project features 6 main buttons and 2 knobs as well as a button at the very top middle, that one is labeled start through the engraved text in the case. 
+
+You'll be able to play the game sound voltex through various online emulators, but the one most commonly used by the rythmn gaming community is k-shoot mania: https://www.kshootmania.com/en/ 
+
+When loaded, the game UI looks a bit like this:
+<img width="241" height="290" alt="image" src="https://github.com/user-attachments/assets/5859dd0a-08b3-4e1b-b589-fa6d4b0da750" />
+
+The smaller white notes can be tapped with the four main keys in the middle of the controller, in this case the ones that are unlabled, think of that like a game of piano tiles. The bigger orange notes can be tapped with the two bottom keys (stating FX-L and FX-R). And for the last part you might be wondering, what do the knobs do? The knobs are to move the blue and pink notes you see at the top, you can hit them by controlling your left and right speaker by turning the knobs. Think of it like you're trying to adjust a volume bar so that it's in sync with the note!
+
+
 # Why this project? 
 Since I was a kid, i've always wanted to play japananese arcade rythmn games but it's super hard to find cabinets here in Canada without having to travel hundreds of miles or literally just fly to japan. I was first introduced to the minivoltex through a youtube video when I was bored in 2020, back then I thought it was a super cool controller and a way for me to actually experience these arcade cabinets without having to haul myself to japan. When I was doing the blueprint hackpad tutorials, I kept thinking that the stuff I was doing, with macropads and all could relate back to rythmn game controllers and I thought OH! I could probably modify this to become a minivoltex and then play sound voltex.
 
