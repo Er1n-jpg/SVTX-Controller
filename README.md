@@ -8,6 +8,8 @@ Sound voltex is a popular japanese arcade rythmn game that involves the player p
 
 it's played on arcade cabinets like this ^^
 
+My ultra mini voltex features a Raspberry Pi Pico with a cooling holes, a custom case, neopixels and a buzzer!
+
 # How does it work
 
 To plug the project in the'res a USB-C connection at the front of the case which can be easily accessed
