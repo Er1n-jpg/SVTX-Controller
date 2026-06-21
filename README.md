@@ -16,6 +16,7 @@ The project features 6 main buttons and 2 knobs as well as a button at the very 
 You'll be able to play the game sound voltex through various online emulators, but the one most commonly used by the rythmn gaming community is k-shoot mania: https://www.kshootmania.com/en/ 
 
 When loaded, the game UI looks a bit like this:
+
 <img width="241" height="290" alt="image" src="https://github.com/user-attachments/assets/5859dd0a-08b3-4e1b-b589-fa6d4b0da750" />
 
 The smaller white notes can be tapped with the four main keys in the middle of the controller, in this case the ones that are unlabled, think of that like a game of piano tiles. The bigger orange notes can be tapped with the two bottom keys (stating FX-L and FX-R). And for the last part you might be wondering, what do the knobs do? The knobs are to move the blue and pink notes you see at the top, you can hit them by controlling your left and right speaker by turning the knobs. Think of it like you're trying to adjust a volume bar so that it's in sync with the note!
