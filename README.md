@@ -54,7 +54,8 @@ I'm still not sure if i'm doing them right so ill need to ask some hardware smar
 | Cherry MX switches |	Also from Aliexpres yay	|	10 |	$0.43 |	Free |	$4.31 |
 | Diodes |	From Aliexpress | 100 |	$0.04 |	Free |	$4.48 |
 | Resistors |	Resistors from Aliexpress | 100 |	$0.03 |	Free	| $2.61 |
-| Encoder Knobs | Knobs for rotary encoders on aliexpress | 2 | $0.72 | Free | $1.43 |
+| Encoder Knobs | Knobs for rotary encoders on aliexpress | 2 | $3.38 | Free | $7.72 |
+| Rubber Feet | Rubber feet to keep the keeb from sliding | 10 | 
 | Total Price | --- | --- | --- | --- | $32.04 |
 
 Huge mega thanks to all of my experienced hardware friends for helping me on building this (Tanishq, Sophia Duan, Owais, Jeremy) Yall are amazing hehe
