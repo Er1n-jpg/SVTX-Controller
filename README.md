@@ -64,7 +64,8 @@ Speedy potato's doccumentation, its super cool definetly check it out! https://g
 | Resistors |	Resistors from Aliexpress | 100 |	$0.03 |	Free	| $2.61 |
 | Encoder Knobs | Knobs for rotary encoders on aliexpress | 2 | $3.38 | Free | $7.72 |
 | Rubber Feet | Rubber feet to keep the keeb from sliding | 10 | $1.78 | Free | $ 3.56 |
-| Total Price | --- | --- | --- | --- | $41.79 |
+| PCB | PCB quote from JLCPCB | 1 | $9.50 | $2.50 | $11.00 |
+| Total Price | --- | --- | --- | --- | $52.79 |
 
 All other items I currently have or are included in a 50+ set for my other projects, this includes 3D prinding and filament
 
