@@ -9,9 +9,9 @@ Sound voltex is a popular japanese arcade rythmn game that involves the player p
 it's played on arcade cabinets like this ^^
 
 # Why this project? 
-Since I was a kid, i've always wanted to play japananese arcade rythmn games but it's super hard to find cabinets here in Canada without having to travel hundreds of miles or literally just fly to japan. I was first introduced to the minivoltex through a youtube video when I was bored in 2020, back then I thought it was a super cool controller and a way for me to actually experience these arcade cabinets without having to haul myself to japan. When I was doing the blueprint hackpad tutorials, I kept thinking that the stuff I was doing, with macropads and all could relate back to rythmn game controllers and I thought OH! I could probably modify this to become a minivoltex and then play sound voltex and be happy :D. 
+Since I was a kid, i've always wanted to play japananese arcade rythmn games but it's super hard to find cabinets here in Canada without having to travel hundreds of miles or literally just fly to japan. I was first introduced to the minivoltex through a youtube video when I was bored in 2020, back then I thought it was a super cool controller and a way for me to actually experience these arcade cabinets without having to haul myself to japan. When I was doing the blueprint hackpad tutorials, I kept thinking that the stuff I was doing, with macropads and all could relate back to rythmn game controllers and I thought OH! I could probably modify this to become a minivoltex and then play sound voltex.
 
-I haven't made the firmware for this project yet but come back later for a finished controller! 
+I make alot of my projects based on my interests (click that ivan with alien stage and ALD1flix for alpha drive one) so this is just another one down the pipeline, and I think its super cool to have an arcade emulator at home that you can play with. 
 
 Here are some examples of my inspiration 
 
@@ -32,7 +32,6 @@ Here's my traces!
 
 <img width="827" height="647" alt="image" src="https://github.com/user-attachments/assets/e21e0b9d-6f22-4e67-9a80-75fe6a95a70d" />
 
-I'm still not sure if i'm doing them right so ill need to ask some hardware smart friends for help lol. If anyone has reccomendations on where to put the neopixels it would be greatly appreciated
 
 3D model of the PCB:
 
@@ -57,5 +56,7 @@ Speedy potato's doccumentation, its super cool definetly check it out! https://g
 | Encoder Knobs | Knobs for rotary encoders on aliexpress | 2 | $3.38 | Free | $7.72 |
 | Rubber Feet | Rubber feet to keep the keeb from sliding | 10 | 
 | Total Price | --- | --- | --- | --- | $32.04 |
+
+All other items I currently have or are included in a 50+ set for my other projects, this includes 3D prinding and filament
 
 Huge mega thanks to all of my experienced hardware friends for helping me on building this (Tanishq, Sophia Duan, Owais, Jeremy) Yall are amazing hehe
