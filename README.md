@@ -40,6 +40,7 @@ Here's my traces!
 
 
 Look at the case!
+
 <img width="765" height="582" alt="image" src="https://github.com/user-attachments/assets/5b7baee5-9c76-4640-85df-e85e7e30213c" />
 
 it's also my very first time decorating a case and personalizing it, since alot of the popular minivoltex controllers have super cool designs on them, I tried to add some engravings and sigils onto mine!
