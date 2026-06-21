@@ -37,6 +37,14 @@ Here's my traces!
 
 <img width="845" height="479" alt="image" src="https://github.com/user-attachments/assets/5a5da99f-49d1-4a3a-a49e-eee7b036d05d" />
 
+
+
+Look at the case!
+<img width="765" height="582" alt="image" src="https://github.com/user-attachments/assets/5b7baee5-9c76-4640-85df-e85e7e30213c" />
+
+it's also my very first time decorating a case and personalizing it, since alot of the popular minivoltex controllers have super cool designs on them, I tried to add some engravings and sigils onto mine!
+
+
 # Firmware
 unfortunately, you can't really pull the firmware of these gamecontrollers out of thin air from QMK like you can most macropads or keyboards since the keys are relatively far away from eachother. 
 For this project I used the base code of speedypotato's pico game controller while taking snippets like LED's out. THE FIRMWARE IS NOT ORIGINAL I REPEAT IT IS NOT ORIGINAL
